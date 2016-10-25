@@ -208,7 +208,7 @@ This proves how easy it is to start developing _chaincode applications[^4]_ to r
 
 [^3]: <kbd>myproject</kbd> is the project created by default.  <kbd>oc login -u developer</kbd> command tells you which project you are using.
 
-[^4]: An example of the updated YAML file is (available on github)[].
+[^4]: An example of the updated YAML file is (available on github)[https://raw.githubusercontent.com/finiteloopme/hyperledger-on-kubernetes/master/docker-compose-fabric-starter-kit.yml].
 
 [^5]: [Chaincode](https://hyperledger-fabric.readthedocs.io/en/latest/protocol-spec/#213-chaincode-services) is an application-level code stored on the ledger as part of a transaction.
 
