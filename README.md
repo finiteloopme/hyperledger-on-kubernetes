@@ -1,9 +1,3 @@
-Title: Hyperledger on Kubernetes
-Notebook: FiniteLoop.me
-Tags: evnd, blockchain, kubernetes, hyperledger, fabric, openshift
-
-[TOC]
-
 # Why
 Recently, I have been following the [Hyperledger][1] project and [Fabric][4] in particular with fair bit of interest.  The current deployment process[^1] for [Fabric Starter Kit][6] uses [Docker Swarm][2].  
 
