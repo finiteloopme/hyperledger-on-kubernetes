@@ -70,6 +70,7 @@ I am using <kbd>macOS Sierra</kbd> for development, with following configuration
    wget -O docker-compose-fabric-starter-kit.yml https://raw.githubusercontent.com/hyperledger/fabric/master/examples/sdk/node/docker-compose.yml
    ```
 4. Update the downloaded YAML file to ensure appropriate ports are *exposed*[^4].
+
    ```YAML
    # updated snippet of docker-compose-fabric-starter-kit.yml
    membersrvc:
